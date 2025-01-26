@@ -1,1 +1,18 @@
-Hello World!
+Link remote repo to local
+    1. make remote repository in github
+    2. copy ssh link
+    3. 'cd [directory]' : go to directory you want to have the repository in
+    4. 'clone [ssh link]' : copies repo onto device
+    5.  'code .' : opens visual studio code
+
+Workflow
+    1. 'git add [filename or .]' adds saved changes into staging
+    2. 'git commmit -m "[description of commit]" : commits changes to git
+    3. 'git push origin main' : pushes changes to github
+
+Help
+    1. 'git log'
+    2. 'git status'
+
+Mental Model
+    program | action | destination
