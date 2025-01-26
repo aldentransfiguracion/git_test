@@ -10,6 +10,11 @@ Workflow
     2. 'git commmit -m "[description of commit]" : commits changes to git
     3. 'git push origin main' : pushes changes to github
 
+Commit Messages
+	1. Create subject line and body line in text editor
+	2. Subject line: short, capitalized,imperative
+	3. Body: what, why, how
+
 Help
     1. 'git log'
     2. 'git status'
